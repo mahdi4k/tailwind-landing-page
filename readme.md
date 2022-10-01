@@ -1,4 +1,4 @@
-# Tailwind Manage Landing Page
+# custom Tailwind Manage Landing Page
 
 This is the project from my 2022 Tailwind Crash Course on YouTube.
 
